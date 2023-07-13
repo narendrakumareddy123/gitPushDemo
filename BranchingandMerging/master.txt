@@ -15,3 +15,4 @@ Aadhar
 Pan
 Passport
 
+photo copy
